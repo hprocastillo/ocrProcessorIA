@@ -1,0 +1,20 @@
+Documento: emo_41641476_12-04-2021.pdf
+Resultado: DNI PACIENTE: 41641476, Fecha Examen: 12/04/2021 
+
+----------------------------------------
+Documento: emo_44745121_02-11-2017.pdf
+Resultado: DNI PACIENTE: 44745121, Fecha Examen: 02/11/2017 
+
+----------------------------------------
+Documento: emo_44745121_31-10-2018.pdf
+Resultado: DNI PACIENTE: 44745121, Fecha Examen: 31/10/2018 
+
+----------------------------------------
+Documento: emo_44745121_13-11-2019.pdf
+Resultado: DNI PACIENTE: 44745121, Fecha Examen: 13/11/2019 
+
+----------------------------------------
+Documento: emo_44745121_19-12-2020.pdf
+Resultado: DNI PACIENTE: 44745121, Fecha Examen: 19/12/2020 
+
+----------------------------------------
