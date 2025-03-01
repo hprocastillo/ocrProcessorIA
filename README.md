@@ -1,0 +1,1 @@
+This application extracts text from scanned documents using OCR, sends it to the API of an AI, such as openIA or some local AI such as rocama. The API analyzes the text for the information requested and returns the information.  The application is prepared to analyze thousands of documents contained in a specific folder.
